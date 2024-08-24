@@ -22,7 +22,7 @@ My current research focuses on practical problems that artificial intelligence f
 ## Academic Background
 
 - **Sep 2023 - Future (phd):** University of Science and Technology of China(Lab for Intelligent Networking and Knowledge Engineering)
-- - **Sep 2021 - June 2023:** University of Science and Technology of China(Lab for Intelligent Networking and Knowledge Engineering)
+- **Sep 2021 - June 2023:** University of Science and Technology of China(Lab for Intelligent Networking and Knowledge Engineering)
 - **Sep 2027 - June 2021:** Jiangnan University
 
 ---
